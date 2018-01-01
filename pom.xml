@@ -6,6 +6,10 @@
     <groupId>com.laibao</groupId>
     <artifactId>mutil-module-demo</artifactId>
     <version>1.0.0-SNAPSHOT</version>
+    <modules>
+        <module>libary</module>
+    </modules>
+    <packaging>pom</packaging>
 
     <name>mutil-module-demo</name>
     <description>mutil module demo</description>
